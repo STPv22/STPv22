@@ -17,6 +17,8 @@
 - wss://konemc.kones.tech/
 - wss://clever-teaching.com
 - wss://mercurymc.net
+- wss://intelle.cloud/eg
+- wss://vibemc.xyz
 
 There are more, but I dont have them, like cereal network.
 
