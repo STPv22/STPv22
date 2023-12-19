@@ -20,5 +20,5 @@
 - wss://intelle.cloud/eg
 - wss://vibemc.xyz
 
-There are more, but I dont have them, like cereal network.
+There are more, but I dont have them, like cereal network. also ArchMC is trash.
 
