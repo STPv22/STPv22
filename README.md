@@ -19,6 +19,7 @@
 - wss://mercurymc.net
 - wss://intelle.cloud/eg
 - wss://vibemc.xyz
+- wss://mc.sfactions.com
 
 There are more, but I dont have them, like cereal network. also ArchMC is trash.
 
