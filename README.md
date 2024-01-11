@@ -23,3 +23,4 @@
 
 There are more, but I dont have them, like cereal network. also ArchMC is trash.
 
+For school: https://sites.google.com/s.csd28j.org/classroom-6nine/home
