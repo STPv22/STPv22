@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: my soundcloud DM lol
 
-#EalercraftX server list:#
+# EalercraftX server list: #
 
 - zentic.cc
 - wss://legxndsmp.minecraft.pe
