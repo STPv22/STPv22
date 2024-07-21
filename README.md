@@ -1,26 +1,4 @@
-- 👋 Hi, I’m @STPv22
-- 👀 I’m interested in ..??
-- 🌱 I’m currently learning about websocket servers and node.js
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: my soundcloud DM lol
+#I HAVE RETURNED
 
-# EalercraftX server list: #
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?STPv22=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-- zentic.cc
-- wss://legxndsmp.minecraft.pe
-- wss://asianf4rmer.minecraft.pe
-- wss://aeon-network.net/1.8
-- wss://us.aeon-network.net (for pitfall)
-- wss://hardcore.dawn-smp.repl.co/ (brocken)
-- wss://ggsmp.net
-- wss://mc.asspixel.net laggy as
-- wss://konemc.kones.tech/
-- wss://clever-teaching.com
-- wss://mercurymc.net
-- wss://intelle.cloud/eg
-- wss://vibemc.xyz
-- wss://mc.sfactions.com
-
-There are more, but I dont have them, like cereal network. also ArchMC is trash.
-
-For school: https://sites.google.com/s.csd28j.org/classroom-6nine/home
