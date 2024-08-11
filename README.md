@@ -7,6 +7,6 @@ I am Currently clearing ou my github of all of the random and unnecessary repos.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,discord,p5js,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,p5js,vscode,windows" />
   </a>
 </p>
