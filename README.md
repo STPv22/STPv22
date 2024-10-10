@@ -1,8 +1,8 @@
 
 <div align="center">
-  <h1>I HAVE RETURNED</h1>
+  <h1>I a person</h1>
   <h3>Socials:</h3>
-  <ul style="text-decoration: none;">
+  <ul style="list-style: none;">
     <li>Youtube: https://www.youtube.com/@STPv2.2</li>
     <li>things</li>
   </ul>
