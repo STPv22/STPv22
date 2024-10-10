@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>I a person</h1>
   <img src="https://discord-readme-badge.vercel.app/api?id=1187124067283783731">
