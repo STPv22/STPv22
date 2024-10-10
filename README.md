@@ -10,6 +10,6 @@
   <ul style="list-style: none;">
     <li>https://www.youtube.com/@STPv2.2</li>
   </ul>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STPv22&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STPv22&theme=radical"><br>
   <img src="https://minecraftpanda.com/tools/achievement-generator/output?icon=33&title=THX%20%3A3&text=You%20read%20my%20README%21"/>
 </div>
