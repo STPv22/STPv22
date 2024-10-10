@@ -2,7 +2,7 @@
 <div align="center">
   <h1>I HAVE RETURNED</h1>
   <h3>Socials:</h3>
-  <ul>
+  <ul style="text-decoration: none;">
     <li>Youtube: https://www.youtube.com/@STPv2.2</li>
     <li>things</li>
   </ul>
