@@ -7,7 +7,7 @@
   <ul style="list-style: none;">
     <li>https://www.youtube.com/@STPv2.2</li>
     <li>https://soundcloud.com/stpv22</li>
-    <li>https://account.xbox.com/en-us/profile?gamertag=stpv22?forms.google.com</li>
+    <li>https://account.xbox.com/en-us/profile?gamertag=stpv22</li>
   </ul>
   <img src="https://minecraftpanda.com/tools/achievement-generator/output?icon=33&title=THX%20%3A3&text=You%20read%20my%20README%21"/>
   <hr>
