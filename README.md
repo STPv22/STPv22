@@ -3,7 +3,7 @@
   <h1>I a person</h1>
   <h3>Socials:</h3>
   <ul style="list-style: none;">
-    <li><img alt="youtube icon" src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png)" /> https://www.youtube.com/@STPv2.2</li>
+    <li><img alt="youtube icon" width="16px" src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" /> https://www.youtube.com/@STPv2.2</li>
     <li>things</li>
   </ul>
 
