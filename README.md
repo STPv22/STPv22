@@ -9,7 +9,7 @@
     <li>https://soundcloud.com/stpv22</li>
     <li>https://account.xbox.com/en-us/profile?gamertag=stpv22</li>
   </ul>
-  <img src="https://minecraftpanda.com/tools/achievement-generator/output?icon=33&title=THX%20%3A3&text=You%20read%20my%20README%21"/>
+  <img src="https://minecraftpanda.com/tools/achievement-generator/output?icon=33&title=THX%20%3A3&text=You%20read%20my%20Readme%21"/>
   <hr>
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,html,css,java,p5js,vscode,windows" />
