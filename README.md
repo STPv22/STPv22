@@ -11,6 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STPv22&theme=radical">
 
   <p>
+    <img src="https://minecraftpanda.com/tools/achievement-generator/output?icon=33&title=THX%20%3A3&text=You%20read%20my%20README%21"/>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,html,css,java,p5js,vscode,windows" />
     </a>
