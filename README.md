@@ -5,7 +5,6 @@
   <p>more info here ig</p>
   <h2>Socials:</h2>
   <ul style="list-style: none;">
-    <li><img alt="youtube icon" width="100px" src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" /></li>
     <li>https://www.youtube.com/@STPv2.2</li>
   </ul>
 
