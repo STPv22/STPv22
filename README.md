@@ -7,6 +7,7 @@
   <h2>Socials:</h2>
   <ul style="list-style: none;">
     <li>https://www.youtube.com/@STPv2.2</li>
+    <li>https://soundcloud.com/stpv22</li>
   </ul>
   <img src="https://minecraftpanda.com/tools/achievement-generator/output?icon=33&title=THX%20%3A3&text=You%20read%20my%20README%21"/>
   <hr>
