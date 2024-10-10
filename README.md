@@ -3,8 +3,8 @@
   <h1>I a person</h1>
   <h3>Socials:</h3>
   <ul style="list-style: none;">
-    <li><img alt="youtube icon" width="64px" src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" /> https://www.youtube.com/@STPv2.2</li>
-    <li>things</li>
+    <li><img alt="youtube icon" width="64px" src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" /></li>
+    <li>https://www.youtube.com/@STPv2.2</li>
   </ul>
 
   <img src="https://discord-readme-badge.vercel.app/api?id=1187124067283783731"> <br>
