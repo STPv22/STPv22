@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=1187124067283783731">
   <h1>I human</h1>
-  <p>I knwo javascript and am learning java. HTML dont count. I lack the smarts tbh.</p>
+  <p>I know javascript and am learning java, but I lack the smarts tbh. I like MC, GD, fortnite, and R6 seige every once in a while, all of which I am not really good at. I also sometimes like the browser classics, Shell Shockers, 1v1 LOL, and Eagler. Please let me know if there are any good playit.gg alternitives.</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STPv22&theme=radical"><br>
   <h2>Socials:</h2>
   <ul style="list-style: none;">
