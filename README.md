@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=1187124067283783731">
-  <h1>I a person</h1>
+  <h1>I human</h1>
   <p>I knwo javascript and am learning java. HTML dont count. I lack the smarts tbh.</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STPv22&theme=radical"><br>
   <h2>Socials:</h2>
