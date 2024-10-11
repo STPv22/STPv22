@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=1187124067283783731">
   <h1>I human</h1>
-  <h3>Currenly working on:<br>
+  <h3>Currenly working on:<br><br>
     <img src="https://skillicons.dev/icons?i=java" /><br>
     GUI server manager
     </h3>
