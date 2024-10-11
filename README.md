@@ -12,6 +12,6 @@
   <img src="https://minecraftpanda.com/tools/achievement-generator/output?icon=33&title=THX%20%3A3&text=You%20read%20my%20Readme%21"/>
   <hr>
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,java,p5js,vscode,windows" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,java,p5js,windows,arch" />
     </a>
 </div>
