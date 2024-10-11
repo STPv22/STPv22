@@ -7,7 +7,7 @@
     </h3>
   <p>I know javascript and am learning java, but I lack the smarts tbh. I play MC, GD, fortnite, celeste, DOOM, and R6 seige, all of which I am not really good at. I also sometimes like the browser OGs, Shell Shockers, 1v1 LOL, and Eagler. <br>
     <code>Add camqu9console to your friends list for a good bedrock server.</code><br>
-    Link: <a href="https://account.xbox.com/en-us/profile?gamertag=camqu9console">Account</a>
+    <a href="https://account.xbox.com/en-us/profile?gamertag=camqu9console">Account</a>
   </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STPv22&theme=radical"><br>
   <h2>Socials:</h2>
