@@ -11,7 +11,7 @@
     <a target="_blank" href="https://www.xbox.com/en-US/play/user/donutnetwork">My Server (bedrock)</a> <br>
     <code>MY MC SERVER Eagler, Java, and bedrock (WIP): donutserver.us.to</code>
   </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STPv22&theme=radical"><br>
+  <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STPv22&theme=radical"><br>
   <h2>Socials:</h2>
   <ul style="list-style: none;">
     <li><a target="_blank" href="https://www.youtube.com/@STPv2.2">Youtube</a></li>
