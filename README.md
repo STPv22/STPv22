@@ -8,8 +8,8 @@
   <p>I know javascript and am learning java, but I lack the smarts tbh. I play MC, GD, fortnite, celeste, DOOM, and R6 seige, all of which I am not really good at. I also sometimes like the browser OGs, Shell Shockers, 1v1 LOL, and Eagler. <br>
     <code>Add camqu9console or donutnetwork to your friends list for a good bedrock server.</code><br>
     <a target="_blank" href="https://www.xbox.com/en-US/play/user/camqu9console">Camqu9</a><br>
-    <a target="_blank" href="https://www.xbox.com/en-US/play/user/donutnetwork">My Server (WIP)</a>
-    <code>MY MC SERVER: (tryna figure out some port stuff, should give link by end of week, only bedrock right now)</code>
+    <a target="_blank" href="https://www.xbox.com/en-US/play/user/donutnetwork">My Server (bedrock)</a> <br>
+    <code>MY MC SERVER Eagler, Java, and bedrock (WIP): donutserver.us.to</code>
   </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STPv22&theme=radical"><br>
   <h2>Socials:</h2>
