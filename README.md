@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=1187124067283783731">
   <h1>I human</h1>
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=stpv22&repo=Dextensify' />
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=stpv22&repo=Dextensify&theme=ambient_gradient' />
   <p>I know javascript and am learning java, but I lack the smarts tbh. I play MC, GD, fortnite, celeste, DOOM, and R6 seige, all of which I am not really good at. I also sometimes like the browser OGs, Shell Shockers, 1v1 LOL, and Eagler. <br>
     <code>Add camqu9console or donutnetwork to your friends list for a good bedrock server.</code><br>
     <a target="_blank" href="https://www.xbox.com/en-US/play/user/camqu9console">Camqu9</a><br>
